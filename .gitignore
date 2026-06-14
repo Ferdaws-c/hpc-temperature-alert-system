@@ -1,0 +1,16 @@
+# Arduino IDE / build outputs
+*.hex
+*.elf
+*.bin
+.build/
+Build/
+
+# Local/Private Configuration containing credentials
+# (We will keep wifi_config.h templates in the repo with placeholders,
+# but we can ignore any local_config.h if they want to use one)
+*local_config.h
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
