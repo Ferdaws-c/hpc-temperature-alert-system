@@ -55,6 +55,14 @@ graph TD
 
 ---
 
+## 📺 Demo Video
+
+[![HPC Temp Alert Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-Blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1XWIJjDj5uIibWSm3icXQ-X2YmviQtT7e?usp=drive_link)
+
+*Click the badge above to watch the video demonstration of the physical hardware setup, threshold alerts, and real-time database syncing.*
+
+---
+
 ## 🛠️ Hardware Specification
 
 *   **Microcontroller:** ESP32 (NodeMCU-32S)
